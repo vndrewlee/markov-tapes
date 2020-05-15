@@ -8,7 +8,7 @@ The nanogenmo definition of novel is very broad, the only requirement is that th
 
 The quoted section above is the opening of my generated novel.
 
-- [Full text of generated novel](/doc/itp/catn/nanogenmo/novel_1574472414.txt)
+- [Full text of generated novel](novel_1574472414.txt)
 
 ## Methodology
 
